@@ -27,7 +27,7 @@
     "lint": "eslint --ext .jsx --ext .js src/. --fix",
     "lint:css": "stylelint src/**/*.scss --fix",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
