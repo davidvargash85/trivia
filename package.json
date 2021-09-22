@@ -24,7 +24,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint --ext .jsx --ext .js src/. --fix",
-    "lint:css": "stylelint src/**/*.scss --fix"
+    "lint:css": "stylelint src/**/*.scss --fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
