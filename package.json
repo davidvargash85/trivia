@@ -1,6 +1,6 @@
 {
   "name": "trivia",
-  "homepage": "https://davidvargash85.github.io/trivia-app/",
+  "homepage": "https://davidvargash85.github.io/trivia/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
