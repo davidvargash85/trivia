@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/trivia-app/static/css/main.5075ce57.chunk.css",
-    "main.js": "/trivia-app/static/js/main.f690d954.chunk.js",
-    "main.js.map": "/trivia-app/static/js/main.f690d954.chunk.js.map",
-    "runtime-main.js": "/trivia-app/static/js/runtime-main.f58e4845.js",
-    "runtime-main.js.map": "/trivia-app/static/js/runtime-main.f58e4845.js.map",
-    "static/js/2.cdb53fce.chunk.js": "/trivia-app/static/js/2.cdb53fce.chunk.js",
-    "static/js/2.cdb53fce.chunk.js.map": "/trivia-app/static/js/2.cdb53fce.chunk.js.map",
-    "static/js/3.5350f57c.chunk.js": "/trivia-app/static/js/3.5350f57c.chunk.js",
-    "static/js/3.5350f57c.chunk.js.map": "/trivia-app/static/js/3.5350f57c.chunk.js.map",
-    "index.html": "/trivia-app/index.html",
-    "static/css/main.5075ce57.chunk.css.map": "/trivia-app/static/css/main.5075ce57.chunk.css.map",
-    "static/js/2.cdb53fce.chunk.js.LICENSE.txt": "/trivia-app/static/js/2.cdb53fce.chunk.js.LICENSE.txt"
+    "main.css": "/trivia/static/css/main.5075ce57.chunk.css",
+    "main.js": "/trivia/static/js/main.f690d954.chunk.js",
+    "main.js.map": "/trivia/static/js/main.f690d954.chunk.js.map",
+    "runtime-main.js": "/trivia/static/js/runtime-main.e86f867d.js",
+    "runtime-main.js.map": "/trivia/static/js/runtime-main.e86f867d.js.map",
+    "static/js/2.cdb53fce.chunk.js": "/trivia/static/js/2.cdb53fce.chunk.js",
+    "static/js/2.cdb53fce.chunk.js.map": "/trivia/static/js/2.cdb53fce.chunk.js.map",
+    "static/js/3.5350f57c.chunk.js": "/trivia/static/js/3.5350f57c.chunk.js",
+    "static/js/3.5350f57c.chunk.js.map": "/trivia/static/js/3.5350f57c.chunk.js.map",
+    "index.html": "/trivia/index.html",
+    "static/css/main.5075ce57.chunk.css.map": "/trivia/static/css/main.5075ce57.chunk.css.map",
+    "static/js/2.cdb53fce.chunk.js.LICENSE.txt": "/trivia/static/js/2.cdb53fce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f58e4845.js",
+    "static/js/runtime-main.e86f867d.js",
     "static/js/2.cdb53fce.chunk.js",
     "static/css/main.5075ce57.chunk.css",
     "static/js/main.f690d954.chunk.js"
