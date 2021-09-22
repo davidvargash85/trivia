@@ -1,0 +1,17 @@
+.result-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  margin-bottom: 8px;
+}
+.result-item__icon {
+  font-size: 1.5rem;
+  margin-right: 16px;
+}
+.result-item__icon-true {
+  color: green;
+}
+.result-item__icon-false {
+  color: crimson;
+}

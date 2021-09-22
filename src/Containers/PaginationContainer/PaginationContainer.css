@@ -1,0 +1,25 @@
+.pagination_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pagination_container__icon,
+.pagination_container__counter {
+  font-size: 1.5rem;
+  padding: 8px;
+}
+.pagination_container__counter-value {
+  color: white;
+  font-weight: bold;
+}
+.pagination_container__icon:hover {
+  background-color: #e0e0e0;
+  cursor: pointer; 
+}
+@media only screen and (max-width: 600px) {
+  .pagination_container__icon,
+  .pagination_container__counter {
+    font-size: 1.25rem;
+    padding: 4px;
+  }
+}

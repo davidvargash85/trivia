@@ -1,0 +1,13 @@
+.trivia-link-button {
+  padding: 16px;
+  cursor: pointer;
+  border: 1px solid gray;
+  border-radius: 4px;
+  background-color: #008080;
+  font-size: 1.25rem;
+  color: #88dfdf;
+}
+
+.trivia-link-button:hover {
+  color: #e6fcfc;
+}
